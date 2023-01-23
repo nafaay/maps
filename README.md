@@ -9,7 +9,4 @@
 * [ ] users have profiles, indicating their favourite maps and maps they've  * [ ] contributed to
 * [ ] use http://leafletjs.com/ or https://developers.google.com/maps/
 
-# Databse db_maps
-* [ ] Tables
-* [ ] users, maps, markers, favourites
  
