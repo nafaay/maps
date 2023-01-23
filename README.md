@@ -7,6 +7,16 @@
 * [ ] authenticated users can modify maps (add, edit, remove points)
 * [ ] users can favourite a map
 * [ ] users have profiles, indicating their favourite maps and maps they've  * [ ] contributed to
-* [ ] use http://leafletjs.com/ or https://developers.google.com/maps/
+
+# Dependencies
+- Node version 18 or above
+- npm version 8 or above
+- Postgres pg
+- cookie-session
+- dtenv
+- ejs
+- express
+- morgan
+- Sass
 
  
