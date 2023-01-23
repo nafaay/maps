@@ -13,7 +13,7 @@
 - npm version 8 or above
 - Postgres pg
 - cookie-session
-- dtenv
+- dotenv
 - ejs
 - express
 - morgan
